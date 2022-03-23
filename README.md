@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @arpkk
-- 👀 I’m interested in all
-- 🌱 I’m currently learning automation
+- Analista en computación cientifica de la Universidad de Santiago de Chile
+- Estoy en aprendizaje constante (ू˃̣̣̣̣̣̣︿˂̣̣̣̣̣̣ ू)
 
 <!---
 arpkk/arpkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

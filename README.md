@@ -1,4 +1,4 @@
-- Analista en computación cientifica de la Universidad de Santiago de Chile
+- Analista en Computación Cientifica de la Universidad de Santiago de Chile
 - Estoy en constante aprendizaje (٭°̧̧̧ω°̧̧̧٭)
 
 <!---

@@ -1,5 +1,5 @@
 - Analista en computación cientifica de la Universidad de Santiago de Chile
-- Estoy en aprendizaje constante (٭°̧̧̧ω°̧̧̧٭)
+- Estoy en constante aprendizaje (٭°̧̧̧ω°̧̧̧٭)
 
 <!---
 arpkk/arpkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
